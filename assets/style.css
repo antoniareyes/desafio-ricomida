@@ -1,0 +1,78 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+  }
+.navbar-nav, .mr-auto, .i, li{
+    text-align: right;
+    color: #FFFFFF;
+}
+
+#titulo{
+    text-align: center;
+}
+
+.principal-img{
+    height: 100%;
+    width: 100%;
+    padding: 10%;
+}
+
+body *{
+    font-family: 'Cabin', sans-serif;
+}
+.card-body{
+    height: 100%;
+    width: 100%;
+    padding: 10%;
+    padding-left: 0%;
+}
+#recipe{
+    display: flex;
+    text-align: left;
+    height: 100%;
+    width: 30%;
+    padding: 2%;
+}
+
+#ricomida{
+    font-family: 'Lobster', cursive;
+    color: #FFFFFF;
+}
+
+#newsletter{
+    height: 15rem;
+    width: 100%;
+    background-color: #DC3545;
+    text-align: center;
+}
+#textnewsletter{
+    padding-top: 4rem;
+    color: #FFFFFF;
+}
+
+footer{
+    background-color: #373A3C;
+    padding: 2rem;
+    text-align: center;
+}
+
+#carrusel{
+    height: 34rem;
+    width: 34rem;
+    display: block;
+    margin: auto;
+}
+
+#carta{
+    display: inline-flex;
+    margin: 4rem;
+}
+
+#recipe{
+    display: inline-flex;
+    margin: 8rem;
+    margin-top: 2rem;
+}
+#textrecipe{
+  padding: 1rem;
+}
